@@ -1,2 +1,2 @@
 # Projects
-This Repository contains projects.
+This repository contains projects.
